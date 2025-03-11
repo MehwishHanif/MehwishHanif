@@ -40,16 +40,17 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 ## My Projects
 
 * [**TripWise**](https://github.com/MehwishHanif/TripWise) is a travel planning application that helps users organize and manage their trips.
-<br><br>
+<br><br><br>
 ![image](https://github.com/user-attachments/assets/b515a60e-d7e0-4b7a-b5e3-cd2bd2a424bf)
-
+<br><br>
 * [**Museic**](https://github.com/miaohua897/Mod6_project) is a Spotify clone that allows users to upload their own songs, put their songs into albums, like songs & create playlists.
-<br><br>![image](https://github.com/user-attachments/assets/6d1ed0fc-4bd5-4329-86bb-588b7786e7a6)
+<br><br><br>![image](https://github.com/user-attachments/assets/c1388292-b9b4-4a82-a9ca-06d1533e0653)
+<br><br>
 
 
 * [**BNBConnect**](https://github.com/MehwishHanif/BNB_Connect)  is an Airbnb clone that facilitates user authentication, property listings, property reviews, and bookings , providing a seamless experience for both hosts and guests. 
-<br><br>![image](https://github.com/user-attachments/assets/5ad5b927-d5cd-4b6c-89c5-68ebed296c85)
-
+<br><br><br>![image](https://github.com/user-attachments/assets/5ad5b927-d5cd-4b6c-89c5-68ebed296c85)
+<br><br>
 
 
 ## Let's Connect
